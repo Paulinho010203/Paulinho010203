@@ -2,7 +2,7 @@
 
 meu nome é Paulo Ricardo
 
-- estou estudand na [alura](https://www.alura.com.br)
+- estou estudando na [alura](https://www.alura.com.br)
 
 - estou me desenvolvendo em linguagem javascript
 
